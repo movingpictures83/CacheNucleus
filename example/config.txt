@@ -1,0 +1,2 @@
+Prefix plugins/CacheNucleus/example/
+Plugin CacheNucleus inputfile parameters.txt outputfile cachenucleus.txt
